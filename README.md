@@ -20,7 +20,7 @@ I am using D-Link DWA-131 Wireless N Nano USB Adapter
 # Installation Guide
 
 Follow below guide for installation
-https://olarila.com/forum/viewtopic.php?f=50&t=6257
+https://olarila.com/forum/viewtopic.php?f=50&t=6257. 
 Skip post installation mentioned in above url.
 
 # Post Installation Guide
