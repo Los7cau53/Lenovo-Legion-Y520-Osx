@@ -24,6 +24,11 @@ https://olarila.com/forum/viewtopic.php?f=50&t=6257
 
 # Post Installation Guide
 
-- Fix Audio and input jack
+Post install almost everything works,but audio via jack doesnt work, need to disable gfx to save power
+
+- Open Clover and put the following configurations 
+- Use these kexts(All up to date as of Jul 31st 2018). You can get latest kexts if provided kexts are older
+- Configure your Smbios etc
+- Fix Audio and input jack 
 - Disable 1050/ discrete graphics
-- fix powermanagement
+- Fix powermanagement- put plugin type as 0x01(already provided in clover config)
