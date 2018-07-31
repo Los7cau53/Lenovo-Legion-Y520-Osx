@@ -27,7 +27,7 @@ https://olarila.com/forum/viewtopic.php?f=50&t=6257
 Post install almost everything works,but audio via jack doesnt work, need to disable gfx to save power
 
 - Open Clover and put the following configurations 
-- Use these kexts(All up to date as of Jul 31st 2018). You can get latest kexts if provided kexts are older
+- Use these kexts(All up to date as of Jul 31st 2018). You can get latest kexts if provided kexts are older https://github.com/Los7cau53/Lenovo-Legion-Y520-Osx/blob/master/kexts.zip
 - Configure your Smbios etc
 - Fix Audio and input jack 
 - Disable 1050/ discrete graphics
