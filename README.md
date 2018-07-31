@@ -31,5 +31,5 @@ Post install almost everything works,but audio via jack doesnt work, need to dis
 - Use these kexts(All up to date as of Jul 31st 2018). You can get latest kexts if provided kexts are older https://github.com/Los7cau53/Lenovo-Legion-Y520-Osx/blob/master/kexts.zip
 - Configure your Smbios etc
 - Fix Audio and input jack(the above kext files in conjuction with Clover conifg will takecare of this)
-- Disable 1050/ discrete graphics. https://www.tonymacx86.com/threads/guide-disabling-discrete-graphics-in-dual-gpu-laptops.163772/ .  In my case i had to patch only one SSDT-8.aml file
+- Disable 1050/ discrete graphics. https://www.tonymacx86.com/threads/guide-disabling-discrete-graphics-in-dual-gpu-laptops.163772/ .  In my case i had to patch only one SSDT-8.aml file .In Clover config put SSDT-PNLF.amal file last in load order. You can check screenshot in Clover ACPI section.
 - Fix powermanagement- put plugin type as 0x01(already provided in clover config)
