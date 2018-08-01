@@ -24,6 +24,7 @@ https://olarila.com/forum/viewtopic.php?f=50&t=6257.
 Skip post installation mentioned in above url.
 
 # Post Installation Guide
+ (WIP)
 
 Post install almost everything works,but audio via jack doesnt work, need to disable gfx to save power
 
